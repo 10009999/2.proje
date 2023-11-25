@@ -1,0 +1,330 @@
+@keyframes color-change {
+    0% {
+      color: red;
+    }
+    1% {
+      color: orange;
+    }
+    2% {
+      color: yellow;
+    }
+    3% {
+        color: green;
+    }
+    4% {
+      color: lightgreen;
+    }
+    5% {
+        color: blue;
+    }
+    6% {
+        color: lightblue;
+    }
+    7% {
+        color: pink;
+    }
+    8% {
+        color: purple;
+    }
+    9% {
+      color: red;
+    }
+    10% {
+      color: orange;
+    }
+    11% {
+      color: yellow;
+    }
+    12% {
+        color: green;
+    }
+    13% {
+      color: lightgreen;
+    }
+    14% {
+        color: blue;
+    }
+    15% {
+        color: lightblue;
+    }
+    16% {
+        color: pink;
+    }
+    17% {
+        color: purple;
+    }
+    18% {
+      color: red;
+    }
+    19% {
+      color: orange;
+    }
+    20% {
+      color: yellow;
+    }
+    21% {
+        color: green;
+    }
+    22% {
+      color: lightgreen;
+    }
+    23% {
+        color: blue;
+    }
+    24% {
+        color: lightblue;
+    }
+    25% {
+        color: pink;
+    }
+    26% {
+        color: purple;
+    }
+    27% {
+      color: red;
+    }
+    28% {
+      color: orange;
+    }
+    29% {
+      color: yellow;
+    }
+    30% {
+        color: green;
+    }
+    31% {
+      color: lightgreen;
+    }
+    32% {
+        color: blue;
+    }
+    33% {
+        color: lightblue;
+    }
+    34% {
+        color: pink;
+    }
+    35% {
+        color: purple;
+    }
+    36% {
+      color: red;
+    }
+    37% {
+      color: orange;
+    }
+    38% {
+      color: yellow;
+    }
+    39% {
+        color: green;
+    }
+    40% {
+      color: lightgreen;
+    }
+    41% {
+        color: blue;
+    }
+    42% {
+        color: lightblue;
+    }
+    43% {
+        color: pink;
+    }
+    44% {
+        color: purple;
+    }
+    45% {
+      color: red;
+    }
+    46% {
+      color: orange;
+    }
+    47% {
+      color: yellow;
+    }
+    48% {
+        color: green;
+    }
+    49% {
+      color: lightgreen;
+    }
+    50% {
+        color: blue;
+    }
+    51% {
+        color: lightblue;
+    }
+    52% {
+        color: pink;
+    }
+    53% {
+        color: purple;
+    }
+    54% {
+      color: red;
+    }
+    55% {
+      color: orange;
+    }
+    56% {
+      color: yellow;
+    }
+    57% {
+        color: green;
+    }
+    58% {
+      color: lightgreen;
+    }
+    59% {
+        color: blue;
+    }
+    60% {
+        color: lightblue;
+    }
+    61% {
+        color: pink;
+    }
+    62% {
+        color: purple;
+    }
+    63% {
+      color: red;
+    }
+    64% {
+      color: orange;
+    }
+    65% {
+      color: yellow;
+    }
+    66% {
+        color: green;
+    }
+    67% {
+      color: lightgreen;
+    }
+    68% {
+        color: blue;
+    }
+    69% {
+        color: lightblue;
+    }
+    70% {
+        color: pink;
+    }
+    71% {
+        color: purple;
+    }
+    72% {
+      color: red;
+    }
+    73% {
+      color: orange;
+    }
+  
+    74% {
+      color: yellow;
+    }
+    75% {
+        color: green;
+    }
+    76% {
+      color: lightgreen;
+    }
+    77% {
+        color: blue;
+    }
+    78% {
+        color: lightblue;
+    }
+    79% {
+        color: pink;
+    }
+    80% {
+        color: purple;
+    }
+    81% {
+      color: red;
+    }
+    82% {
+      color: orange;
+    }
+    83% {
+      color: yellow;
+    }
+    84% {
+        color: green;
+    }
+    85% {
+      color: lightgreen;
+    }
+    86% {
+        color: blue;
+    }
+    87% {
+        color: lightblue;
+    }
+    88% {
+        color: pink;
+    }
+    89% {
+        color: purple;
+    }
+    90% {
+      color: red;
+    }
+    91% {
+      color: orange;
+    }
+    92% {
+      color: yellow;
+    }
+    93% {
+        color: green;
+    }
+    94% {
+      color: lightgreen;
+    }
+    95% {
+        color: blue;
+    }
+    96% {
+        color: lightblue;
+    }
+    97% {
+        color: pink;
+    }
+    98% {
+        color: purple;
+    }
+    99% {
+      color: red;
+    }
+    100% {
+      color: orange;
+    }
+}
+h1 {
+    animation: color-change 1s infinite;
+}
+a {
+  animation: color-change 1s infinite;
+}
+h2 {
+    animation: color-change 1s infinite;
+}
+p {
+    animation: color-change 1s infinite;
+}
+li {   
+    animation: color-change 1s infinite;
+}
+ul {
+    animation: color-change 1s infinite;
+}
+img {
+    animation: color-change 1s infinite;
+}
+body {
+    background-color: black;
+}
